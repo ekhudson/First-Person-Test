@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/FirstPersonExplorationKit/Scenes/demoScene.unity
+  isLoaded: 1
+  isActive: 1

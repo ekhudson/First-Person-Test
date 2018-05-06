@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 455ab57f3a3e4c446aba7f13450f7dee, type: 3}
+  m_Name: ReflexConsoleSettings
+  m_EditorClassIdentifier: 
+  _EnableConsole: 1
+  _OpenConsoleKey: 9
+  _CloseConsoleKey: 27
+  _DisplayUnityLog: 0
+  _DefaultNamingConvention: 2
+  _SuggestionsCaseInsensitive: 1
+  _HierarchicalAutocomplete: 1
+  _IncludeInactiveObjects: 1
+  _ConsoleFont: {fileID: 0}
